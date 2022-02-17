@@ -1,4 +1,4 @@
-package solution
+package getmessage
 
 import (
 	"github.com/kyokomi/emoji"
